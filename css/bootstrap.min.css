@@ -7187,7 +7187,6 @@ button.close {
     white-space: normal;
     filter: alpha(opacity=0);
     opacity: 0;
-    line-break: auto;
 }
 
 .tooltip.in {
@@ -7327,7 +7326,6 @@ button.close {
     border-radius: 6px;
     -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
     box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
-    line-break: auto;
 }
 
 .popover.top {
@@ -7692,7 +7690,7 @@ button.close {
     .carousel-caption {
         right: 20%;
         left: 20%;
-        padding-bottom: 200px;
+        /* padding-bottom: 200px; */
     }
     .carousel-indicators {
         bottom: 20px
