@@ -6540,10 +6540,10 @@ button.list-group-item-danger.active:hover {
 }
 
 .panel-heading {
-    padding: 10px 15px;
+    padding: 25px 15px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 3px;
-    border-top-right-radius: 3px
+    border-top-right-radius: 3px;
 }
 
 .panel-heading>.dropdown .dropdown-toggle {
@@ -6553,8 +6553,8 @@ button.list-group-item-danger.active:hover {
 .panel-title {
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 16px;
-    color: inherit
+    font-size: 1em;
+    color: inherit;
 }
 
 .panel-title>.small,
@@ -6771,12 +6771,12 @@ button.list-group-item-danger.active:hover {
 }
 
 .panel-group {
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
 
 .panel-group .panel {
-    margin-bottom: 0;
-    border-radius: 4px
+    margin-bottom: 0px;
+    border-radius: 4px;
 }
 
 .panel-group .panel+.panel {
@@ -6801,7 +6801,7 @@ button.list-group-item-danger.active:hover {
 }
 
 .panel-default {
-    border-color: #ddd
+    border-color: #ddd;
 }
 
 .panel-default>.panel-heading {
@@ -7771,7 +7771,7 @@ button.close {
 }
 
 .show {
-    display: block!important
+    display: block!important;
 }
 
 .invisible {
